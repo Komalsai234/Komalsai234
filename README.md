@@ -8,7 +8,7 @@
 Komalsai234/Komalsai234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsai234&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsai234&show_icons=true&theme=default) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsai234&layout=compact&theme=default)
 
 ## <img src="https://github.com/Komalsai234/Komalsai234/blob/main/emojis/Party.png" width="30"/> Social
