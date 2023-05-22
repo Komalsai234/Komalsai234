@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
         </td>
 
         <td align="center" width="140" height="112.43">
-            <img src="./icons/docker.png" width="65px"/>
+            <img src="https://github.com/Komalsai234/Komalsai234/blob/main/icons/docker.png" width="65px"/>
             <br /> Docker
         </td>
     </tr>
