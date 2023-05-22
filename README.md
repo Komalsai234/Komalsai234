@@ -14,3 +14,29 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://github.com/Komalsai234/Komalsai234/blob/main/emojis/Party.png" width="30"/> Social
 [![Keybase](https://img.shields.io/badge/Keybase-0A0A0A?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/komal_sai_anurag)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sai-anurag-pasumarthy-363521238/)<br>
+
+ ## ⚡ Technologies I use 
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/python.jpeg" width="65px"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/jupyter.png" width="65px"/>
+            <br /> Jupyter
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/scikitlearn.png" width="65px"/>
+            <br /> Scikit Learn
+        </td>
+
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/docker.png" width="65px"/>
+            <br /> Docker
+        </td>
+    </tr>
+</table>
+</div>
