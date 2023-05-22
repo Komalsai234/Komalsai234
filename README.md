@@ -21,15 +21,15 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/python.jpeg" width="65px"/>
+            <img src="./icons/python.jpeg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/jupyter.png" width="65px"/>
+            <img src="./icons/jupyter.png" width="65px"/>
             <br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/tensorflow.png" width="65px"/>
+            <img src="./icons/tensorflow.png" width="65px"/>
             <br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
@@ -37,15 +37,15 @@ You can click the Preview link to take a look at your changes.
             <br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/scikitlearn.png" width="65px"/>
+            <img src="./icons/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/fastapi.png" width="65px"/>
+            <img src="./icons/fastapi.png" width="65px"/>
             <br /> FastAPI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/docker.png" width="65px"/>
+            <img src="./icons/docker.png" width="65px"/>
             <br /> Docker
         </td>
     </tr>
