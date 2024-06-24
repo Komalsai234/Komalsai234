@@ -9,8 +9,7 @@
   - 🌱 I’m actively learning MLops technologies, Generative AI, and Large Language Models (LLMs).
 
   - 📚 I have worked on impactful projects in the field of Healthcare, Finance, Chatbots.
-  
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
+
 
 
 ---
