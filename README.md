@@ -17,7 +17,7 @@
 
 
 ---
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsai234&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=komalsai234&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Komal Sai Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsai234&theme=ambient_gradient&show_icons=true) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsai234&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
 
