@@ -16,10 +16,8 @@
 
 
 
----
-| ![Komal Sai Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsai234&theme=ambient_gradient&show_icons=true) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsai234&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+![Komal Sai Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalsai234&theme=ambient_gradient&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komalsai234&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)                       
 
 
 
