@@ -1,6 +1,6 @@
 - ### Hi there, I'm Komal Sai Anurag Pasumarthy👋
 
-  ## I'm a Data Science Enthusiast, MLops Explorer, and Generative AI Learner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sai-anurag-pasumarthy-363521238/)
+  ## I'm a Data Science Enthusiast, MLops Explorer, and Generative AI Learner [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-sai-anurag-pasumarthy/)
 
 ---
 
