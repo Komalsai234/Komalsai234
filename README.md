@@ -6,7 +6,7 @@
 
   * 🔭 I am Currently pusring my B.Tech in Artificial Intelligence at Amrita Vishwa Vidyapeetam.
 
-  - 🌱 I’m actively learning MLops technologies, Generative AI, and Large Language Models (LLMs).
+  - 🌱 I’m actively learning MLops technologies, Data Engineering, Generative AI, and Large Language Models (LLMs).
 
   - 📚 I have worked on impactful projects in the field of Healthcare, Finance, Chatbots.
 
